@@ -1,3 +1,11 @@
+# Ways the Data is Represented
+
+Abstractly, the information consists of nodes in the graph, which have content, together with links to other nodes.
+
+In the HTML files, connections are represented via the links of the Brain UI as well as links in the content of the entry. There are no node IDs.
+
+In the JSON file, connections are represented in the graph structure. There are no notes.
+
 # Finding Broken Article Links on Archive.org
 
 `http://betty.kurzweilai.net/meme/frame.html?main=/articles/art0408.html`
